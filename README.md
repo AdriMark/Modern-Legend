@@ -1,6 +1,6 @@
 # Modern Legend
 
-This is the official GitHub page for **[Modern Legend]**, a Minecraft Bedrock addon/mod.
+This is the official GitHub page for **Modern Legend**, a Minecraft Bedrock addon/mod.
 
 ## Installation
 1. Download the latest release from the [Releases](../../releases) section.  
