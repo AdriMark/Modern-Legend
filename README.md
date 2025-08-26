@@ -18,4 +18,6 @@ This is the official GitHub page for **Modern Legend**, a Minecraft Bedrock addo
 
 ## Support
 If you find a bug, open an [Issue](../../issues).  
-You can also share suggestions and bugs in my [Discord](https://discord.com/invite/H7M6BxQDBn)
+You can also share suggestions and bugs in my [Discord](https://discord.com/invite/H7M6BxQDBn).
+
+Additionally, if you’d like to help with the addon, please feel free to reach out! I’m not an artist, and all the textures in this addon are created by me. I also don’t always have a lot of time to work on it, so if you’re a coder or artist who wants to contribute, your help would be greatly appreciated.
