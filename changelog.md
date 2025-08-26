@@ -4,10 +4,8 @@ Beta v0.2:
         Added name tag crafting recipe
         Xp bottles give much more xp
         Echo shards can brew into xp bottles
-        Added heavy core block back, removed mace crafting recipe (For builders)
         Sculk shrieker, catalyst, and sensor are now craftable
         Added Nether, Sculk, Sea, and Trial Cores. Each found/crafted in the respective structures. Combine all of them to get eyes of ender.
-        Replaced blaze rod in diamond armor recipe with nether core
         Nether Core Retextured (Thanks @sneeryman)
         Added Carving Station for crafting new pumpkin styles!
         Added Golden Carrot on a Stick
@@ -20,10 +18,14 @@ Beta v0.2:
         Removed less valuable archeology loot
         Ghasts now drop quartz
         Increased pig riding speed
-        Removed flint and steel + firecharge from ruined portal chest
-        Added script to remove elytra when in inventory
         Added Underwater Torch!
         New Beta Testing Message appears shortly after world load
+
+    Rebalanced Style Changes:
+        Added heavy core block back, removed mace crafting recipe (For builders)
+        Replaced blaze rod in diamond armor recipe with nether core
+        Removed flint and steel + firecharge from ruined portal chest
+        Added script to remove elytra when in inventory
     
     Bug Fixes:
         Increased min horse speed/jump, Increased max horse speed/jump/health (Fixed bug in v0.1 that made this not apply)
