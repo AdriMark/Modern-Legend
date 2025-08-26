@@ -13,4 +13,5 @@ This is the official GitHub page for **Modern Legend**, a Minecraft Bedrock addo
 - If you want to share the pack, please link to this repository, MCPEDL, or Curseforge.
 
 ## Support
-If you find a bug or have a suggestion, open an [Issue](../../issues).  
+If you find a bug, open an [Issue](../../issues). 
+You can also share suggestions and bugs in my [Discord](https://discord.com/invite/H7M6BxQDBn)
